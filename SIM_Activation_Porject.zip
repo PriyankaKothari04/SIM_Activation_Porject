@@ -1,0 +1,3 @@
+PK
+INSERT INTO `simactivation`.`customer` (`unique_id_number`, `date_of_birth`, `email_address`, `first_name`, `id_type`, `last_name`, `state`) VALUES ('1234567891234567', '1990-12-12', 'smith@abc.com', 'Smith', 'Aadhar', 'John', 'Karnataka');
+INSERT INTO `simactivation`.`customer` (`unique_id_number`, `date_of_birth`, `email_address`, `first_name`, `id_type`, `last_name`, `state`) VALUES ('1234567891234568', '1998-12-12', 'Bob@abc.com', 'Bob', 'Aadhar', 'Sam', 'Karnataka');
